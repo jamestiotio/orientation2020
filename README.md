@@ -2,6 +2,8 @@
 
 This repository houses the frontend codebase to serve the website for SUTD Orientation 2020.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1099296b-a6b5-4bb4-b678-0e6f991c2fa9/deploy-status)](https://app.netlify.com/sites/orientation2020/deploys)
+
 ## Technologies Used
 
 - Vue.js
