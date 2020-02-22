@@ -28,6 +28,18 @@ Change the DNS record of `sutd.edu.sg` to the corresponding Netlify's subdomain:
 
 See this [Configuration Reference](https://cli.vuejs.org/config/) for more information.
 
+On Netlify, set these settings:
+
+- Build command: `npm run build`
+- Publish directory: `dist`
+- Deploy log visibility: `Private logs`
+- Production branch: `master`
+- Deploy previews: `Automatically build deploy previews for all pull requests`
+- Branch deploys: `Deploy only the production branch`
+- Build image: `Ubuntu Xenial 16.04 (default)`
+- Asset optimization: `Pretty URLs`, `Bundle CSS`, `Minify CSS`, `Bundle JS`, `Minify JS` and `Compress Images`
+- Custom domain: `orientation2020.netlify.com` and `orientation.sutd.edu.sg`
+
 ## Credits
 
 - SUTD Orientation 2020 Creative Media Sub-Committee Folks:
