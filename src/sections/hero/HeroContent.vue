@@ -2,7 +2,7 @@
   <div class="hero-content">
     <h2>SUTD Freshmen Orientation 2020</h2>
     <h1>ASTERIA</h1>
-    <Countdown date="2020-05-13T08:00:00.000+08:00" />
+    <Countdown date="2020-09-10T08:00:00.000+08:00" />
     <div class="hero-content-secondary">
       <div>
         <h2>13th - 16th May 2020</h2>
