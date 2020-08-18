@@ -5,7 +5,7 @@
     <Countdown date="2020-09-10T08:00:00.000+08:00" />
     <div class="hero-content-secondary">
       <div>
-        <h2>10th - 12th September 2020</h2>
+        <h2>10th - 11th September 2020</h2>
         <h2>Singapore University of Technology and Design</h2>
       </div>
     </div>
