@@ -2,7 +2,7 @@
   <nav>
     <ul id="bar">
       <li>
-        <a href="https://orientation.sutd.edu.sg/">
+        <a href="https://orientation2020.netlify.com/">
           <span class="sr-only">Go to homepage</span>
           <svg
             id="bar-logo"
