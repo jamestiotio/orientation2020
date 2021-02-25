@@ -43,8 +43,8 @@ On Netlify, set these settings:
 ## Credits
 
 - SUTD Orientation 2020 Creative Media Sub-Committee Folks:
-  - Azeez Raasheeda Fathima (Head)
-  - Arissa Rashid
+  - [Azeez Raasheeda Fathima](https://github.com/RaasheedaFathima) (Head)
+  - [Arissa Rashid](https://github.com/radjsh)
   - Tan Jean Yee
   - Yeap Hui Yu Sheryl
   - Chloe Ng Kai Xin
