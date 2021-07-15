@@ -2,6 +2,7 @@
 node_modules
 /dist
 .prettierrc
+.dccache
 
 # local env files
 .env.local

@@ -2,7 +2,7 @@
   <nav>
     <ul id="bar">
       <li>
-        <a href="https://orientation2020.netlify.com/">
+        <a href="https://orientation2020.netlify.app/">
           <span class="sr-only">Go to homepage</span>
           <svg
             id="bar-logo"

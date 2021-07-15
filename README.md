@@ -23,8 +23,8 @@ Change the DNS record of `sutd.edu.sg` to the corresponding Netlify's subdomain:
 
 | DNS Type | From | To | Expire |
 | --- | --- | --- | --- |
-| CNAME Record | `orientation` | `orientation2020.netlify.com` | 86400 |
-| CNAME Record | `www.orientation` | `orientation2020.netlify.com` | 86400 |
+| CNAME Record | `orientation` | `orientation2020.netlify.app` | 86400 |
+| CNAME Record | `www.orientation` | `orientation2020.netlify.app` | 86400 |
 
 See this [Configuration Reference](https://cli.vuejs.org/config/) for more information.
 
@@ -38,7 +38,7 @@ On Netlify, set these settings:
 - Branch deploys: `Deploy only the production branch`
 - Build image: `Ubuntu Xenial 16.04 (default)`
 - Asset optimization: `Pretty URLs`, `Bundle CSS`, `Minify CSS`, `Bundle JS`, `Minify JS` and `Compress Images`
-- Custom domain: `orientation2020.netlify.com` and `orientation.sutd.edu.sg`
+- Custom domain: `orientation2020.netlify.app` and `orientation.sutd.edu.sg`
 
 ## Credits
 
